@@ -68,6 +68,7 @@ The implementation of these recommendations is expected to:
 
 ## Project Deliverables
 
+- **Business Brief** — Defines the business problem, analytical requirements, and key questions addressed by the project.
 - **Excel Analysis** — Cleaned and analyzed sales data using Excel and Power Query.
 - **PowerPoint Presentation** — Presentation of key findings, business insights, recommendations, and expected outcomes.
 - **README Documentation** — Overview of the project, methodology, findings, and recommendations.
